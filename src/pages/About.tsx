@@ -162,33 +162,29 @@ const About: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div className="order-2 lg:order-1">
             <h2 className="font-merriweather font-bold text-4xl text-charcoal mb-8">
-              Hello, I'm Antony Suneel
+              Hello! I'm Antony Suneel
             </h2>
             <div className="font-montserrat text-gray-600 text-lg leading-relaxed space-y-6">
               <p>
-                Five years ago, I found myself overwhelmed by the constant rush of modern life. 
-                Despite outward success, I felt disconnected from what truly mattered. That's when 
-                I began exploring mindfulness, sustainable living, and the art of intentional choice-making.
+                Not less than few years ago, I realized I was being swept away by the relentless pace of modern life. 
+                Though everything seemed fine on the surface, I felt a growing disconnection from what truly gave life meaning. 
+                That moment sparked a journey towards inner awareness, environmentally responsible living, and the power of 
+                making conscious, purposeful choices.
               </p>
               <p>
-                What started as a personal quest for balance has evolved into a passion for sharing 
-                the tools, insights, and practices that have transformed my relationship with stress, 
-                consumption, and personal growth. I believe that wellness isn't about perfection—it's 
-                about progress, compassion, and finding what works for your unique life.
+                What began as a personal search for balance has transpired into a deep passion for sharing the strategies, 
+                reflections, and habits that reshaped how I relate to stress, consumer habits, and self-development. 
+                I believe wellness isn’t about getting everything right—it’s about steady growth, self-kindness, 
+                and discovering what truly supports your individual journey.
               </p>
               <p>
-                Through Refreshing Lives, I share the lessons I'm learning, the practices that sustain me, 
-                and the belief that small, mindful changes can create ripples of positive impact that 
-                extend far beyond ourselves.
-              </p>
-              <p>
-                When I'm not writing, you'll find me tending to my garden, practicing yoga, 
-                experimenting with plant-based recipes, or exploring the beautiful Pacific Northwest 
-                around Ballari, Karnataka with my rescue dog, Luna.
+                Through Refreshing Lives, I share ongoing lessons, the everyday practices that keep me grounded in reality and 
+                the conviction that, even the smallest intentional shifts can spark lasting, positive change—both within us 
+                and in the world around us.
               </p>
             </div>
           </div>
-          
+
           <div className="order-1 lg:order-2">
             <div className="relative">
               <div className="aspect-square rounded-3xl overflow-hidden shadow-xl">
