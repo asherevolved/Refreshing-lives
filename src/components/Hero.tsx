@@ -33,8 +33,7 @@ const Hero: React.FC = () => {
           <span className="text-light-sage">Growing Daily</span>
         </h1>
         <p className="font-montserrat text-xl md:text-2xl text-white/90 max-w-3xl mx-auto leading-relaxed mb-12">
-          Discover the art of intentional living through wellness practices, 
-          sustainable choices, and mindful moments that refresh your soul.
+          Fostering Conscious Evolution For a Sustainable Harmonious Environment
         </p>
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
           <button className="bg-forest-green hover:bg-sage-green text-white font-montserrat font-semibold px-10 py-4 rounded-full transition-all duration-300 transform hover:scale-105 shadow-xl text-lg">
