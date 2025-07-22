@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, Instagram, Twitter, Mail, Edit3, LogOut, User } from 'lucide-react';
+import { Menu, X, Instagram, Twitter, Mail, Edit3, LogOut, User, Facebook } from 'lucide-react';
 import { useAuth } from '../hooks/useAuth';
 import AuthModal from './AuthModal';
 
@@ -194,21 +194,31 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
               <h3 className="font-merriweather font-bold text-lg mb-6">Connect</h3>
               <div className="flex space-x-4 mb-6">
                 <a
-                  href="#"
+                  href="https://www.instagram.com/suneelantony/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="p-3 bg-gray-700 rounded-xl hover:bg-forest-green transition-colors duration-200"
                 >
                   <Instagram className="h-5 w-5" />
                 </a>
                 <a
-                  href="https://x.com/Refreshinglives"
+                  href="https://x.com/antonysuneel"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-700 rounded-xl hover:bg-forest-green transition-colors duration-200"
                 >
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+                  <Twitter className="h-5 w-5" />
                 </a>
                 <a
-                  href="#"
+                  href="https://facebook.com/refreshinglives"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="p-3 bg-gray-700 rounded-xl hover:bg-forest-green transition-colors duration-200"
+                >
+                  <Facebook className="h-5 w-5" />
+                </a>
+                <a
+                  href="mailto:refreshinglives.org@gmail.com"
                   className="p-3 bg-gray-700 rounded-xl hover:bg-forest-green transition-colors duration-200"
                 >
                   <Mail className="h-5 w-5" />
