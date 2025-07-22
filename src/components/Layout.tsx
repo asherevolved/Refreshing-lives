@@ -200,10 +200,12 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                   <Instagram className="h-5 w-5" />
                 </a>
                 <a
-                  href="#"
+                  href="https://x.com/Refreshinglives"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="p-3 bg-gray-700 rounded-xl hover:bg-forest-green transition-colors duration-200"
                 >
-                  <Twitter className="h-5 w-5" />
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
                 </a>
                 <a
                   href="#"
