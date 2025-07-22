@@ -174,18 +174,6 @@ const Blog: React.FC = () => {
               </div>
             )}
 
-            {/* Newsletter Signup */}
-            <div className="bg-gradient-to-br from-forest-green to-sage-green rounded-2xl p-4 sm:p-8 text-white">
-              <h3 className="font-merriweather font-bold text-base sm:text-xl mb-2 sm:mb-4">
-                Stay Connected
-              </h3>
-              <p className="font-montserrat text-white/90 mb-3 sm:mb-6 text-sm sm:text-base">
-                Get weekly wellness insights delivered to your inbox.
-              </p>
-              <button className="w-full bg-white hover:bg-gray-100 text-forest-green font-montserrat font-semibold py-2 sm:py-3 rounded-xl transition-colors duration-300 text-sm sm:text-base">
-                Subscribe Now
-              </button>
-            </div>
           </div>
         </aside>
       </div>
