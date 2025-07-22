@@ -57,9 +57,7 @@ const About: React.FC = () => {
           About Refreshing Lives
         </h1>
         <p className="font-montserrat text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-          Welcome to a space dedicated to mindful living, sustainable practices, and the beautiful 
-          journey of personal growth. This is where intention meets action, and small changes 
-          create lasting transformation.
+          Welcome to a space where conscious living, eco-friendly choices, and meaningful self-growth come together. Here, purposeful actions spark real change, and even the smallest steps lead to lasting transformation.
         </p>
       </section>
 
