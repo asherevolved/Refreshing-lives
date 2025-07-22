@@ -218,6 +218,17 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                   <Facebook className="h-5 w-5" />
                 </a>
                 <a
+                  href="https://youtube.com/@refreshinglives-j4z?si=RFC9YvhYO8WBWzj9"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="p-3 bg-gray-700 rounded-xl hover:bg-forest-green transition-colors duration-200"
+                  title="YouTube"
+                >
+                  <svg viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5">
+                    <path d="M23.498 6.186a2.994 2.994 0 0 0-2.107-2.117C19.228 3.5 12 3.5 12 3.5s-7.228 0-9.391.569A2.994 2.994 0 0 0 .502 6.186C0 8.36 0 12 0 12s0 3.64.502 5.814a2.994 2.994 0 0 0 2.107 2.117C4.772 20.5 12 20.5 12 20.5s7.228 0 9.391-.569a2.994 2.994 0 0 0 2.107-2.117C24 15.64 24 12 24 12s0-3.64-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+                  </svg>
+                </a>
+                <a
                   href="mailto:refreshinglives.org@gmail.com"
                   className="p-3 bg-gray-700 rounded-xl hover:bg-forest-green transition-colors duration-200"
                 >
