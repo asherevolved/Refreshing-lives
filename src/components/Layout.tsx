@@ -210,7 +210,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                   <Twitter className="h-5 w-5" />
                 </a>
                 <a
-                  href="https://facebook.com/refreshinglives"
+                  href="https://www.facebook.com/refreshinglivesministries"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-gray-700 rounded-xl hover:bg-forest-green transition-colors duration-200"
