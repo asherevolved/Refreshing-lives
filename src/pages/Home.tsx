@@ -106,13 +106,6 @@ const Home: React.FC = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <div className="absolute -bottom-8 -right-8 bg-forest-green rounded-3xl p-6 shadow-xl">
-                <img 
-                  src="/ChatGPT Image Jun 6, 2025, 08_30_48 PM.png" 
-                  alt="Refreshing Lives Logo" 
-                  className="h-12 w-12 object-contain"
-                />
-              </div>
             </div>
           </div>
         </div>
